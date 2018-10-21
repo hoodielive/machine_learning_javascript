@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/hoodielive/machine_learning_javascript#readme",
   "dependencies": {
-    "ml5": "^0.1.1"
+    "ml5": "^0.1.1",
+    "p5": "^0.7.2"
   }
 }
